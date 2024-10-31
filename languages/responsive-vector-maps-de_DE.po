@@ -1,0 +1,799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RVM - Responsive Vector Maps\n"
+"POT-Creation-Date: 2022-02-08 12:22+0100\n"
+"PO-Revision-Date: 2022-02-08 12:23+0100\n"
+"Last-Translator: Kolja Spyra <service@kolja-spyra.de>\n"
+"Language-Team: Kolja Spyra <service@kolja-spyra.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: responsive_vector_maps.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/rvm_ajax_call.php:22
+msgid "There was an issue with the preview generation tool"
+msgstr "Es gab ein Problem mit dem Vorschau-Generierungs-Tool"
+
+#: includes/rvm_ajax_call.php:26
+msgid "Choose a valid map from the drop down menu"
+msgstr "Wähle eine gültige Karte aus dem Auswahl-Menü"
+
+#: includes/rvm_ajax_call.php:83 includes/rvm_ajax_call.php:87
+#: includes/rvm_ajax_call.php:92 includes/rvm_regions.php:27
+#: includes/rvm_regions.php:31
+msgid "Subdivisions name"
+msgstr "Name der Länder"
+
+#: includes/rvm_ajax_call.php:83 includes/rvm_ajax_call.php:92
+#: includes/rvm_ajax_call.php:170 includes/rvm_markers.php:53
+#: includes/rvm_regions.php:27 includes/rvm_style_and_script.php:97
+msgid "Link"
+msgstr "Link"
+
+#: includes/rvm_ajax_call.php:87 includes/rvm_regions.php:31
+#: includes/rvm_style_and_script.php:112
+msgid "Show following tag (use ID selector without \"#\")"
+msgstr "\"Folgen\"-Schlagwort anzeigen (Selektor ohne \"#\" verwenden)"
+
+#: includes/rvm_ajax_call.php:89 includes/rvm_regions.php:33
+msgid "Fake input field just for serializing consistency"
+msgstr "Gefälschtes Eingabefeld nur für serienmäßige Konsistenz"
+
+#: includes/rvm_ajax_call.php:89 includes/rvm_regions.php:33
+msgid "Open label on default"
+msgstr "Öffne Beschriftung als Standard"
+
+#: includes/rvm_ajax_call.php:95 includes/rvm_regions.php:36
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: includes/rvm_ajax_call.php:95 includes/rvm_regions.php:36
+msgid "Background"
+msgstr "Hintergrund"
+
+#: includes/rvm_ajax_call.php:98
+msgid "Label popup"
+msgstr "Popup Label"
+
+#: includes/rvm_ajax_call.php:99 includes/rvm_regions.php:40
+msgid ""
+"Activate Mouse Over Background <br> <span class=\"rvm_small_text\">hold  "
+"[SHIFT] key for multiple select</span>"
+msgstr ""
+"Hintergrund wenn Maus darüber aktivieren<br><span class=\"rvm_small_text"
+"\">Halte [SHIFT]-Taste für mehrfach Auswahl</span>"
+
+#: includes/rvm_ajax_call.php:101 includes/rvm_ajax_call.php:103
+#: includes/rvm_regions.php:41
+msgid "When click onto this subdivision: "
+msgstr "Beim Klick auf diese Unterteilung: "
+
+#: includes/rvm_ajax_call.php:101 includes/rvm_ajax_call.php:103
+#: includes/rvm_regions.php:41
+msgid "Open link"
+msgstr "Link öffnen"
+
+#: includes/rvm_ajax_call.php:101 includes/rvm_ajax_call.php:103
+#: includes/rvm_regions.php:41
+msgid "Open label content onto default card"
+msgstr "Etiketteninhalt auf Standard-Karte öffnen"
+
+#: includes/rvm_ajax_call.php:101 includes/rvm_ajax_call.php:103
+#: includes/rvm_regions.php:41
+msgid "Show custom selector"
+msgstr "Individuellen Selektor anzeigen"
+
+#: includes/rvm_ajax_call.php:164 includes/rvm_markers.php:47
+msgid "Added Markers"
+msgstr "Markierungen hinzufügen"
+
+#: includes/rvm_ajax_call.php:167 includes/rvm_markers.php:50
+#: includes/rvm_style_and_script.php:94
+msgid "Name"
+msgstr "Name"
+
+#: includes/rvm_ajax_call.php:168 includes/rvm_markers.php:51
+#: includes/rvm_style_and_script.php:95
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: includes/rvm_ajax_call.php:169 includes/rvm_markers.php:52
+#: includes/rvm_style_and_script.php:96
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: includes/rvm_ajax_call.php:171 includes/rvm_markers.php:54
+#: includes/rvm_style_and_script.php:98
+msgid "Dimension"
+msgstr "Abmessung"
+
+#: includes/rvm_ajax_call.php:171 includes/rvm_markers.php:54
+#: includes/rvm_style_and_script.php:101
+msgid "Use only integer or decimal"
+msgstr "Nur integer oder dezimal Zahlen verwenden"
+
+#: includes/rvm_ajax_call.php:171 includes/rvm_markers.php:54
+#: includes/rvm_style_and_script.php:102
+msgid "e.g. 591.20"
+msgstr "z.B. 591.20"
+
+#: includes/rvm_ajax_call.php:172 includes/rvm_style_and_script.php:99
+msgid "Popup label"
+msgstr "Popup-Label"
+
+#: includes/rvm_ajax_call.php:172 includes/rvm_markers.php:55
+#: includes/rvm_style_and_script.php:103
+msgid "e.g. Rome precipitation (mm) long term averages"
+msgstr "z. B. Niederschlag (mm), langfristige durchschnittswerte"
+
+#: includes/rvm_ajax_call.php:173 includes/rvm_markers.php:56
+#: includes/rvm_style_and_script.php:100
+msgid "Remove"
+msgstr "Löschen"
+
+#: includes/rvm_core.php:33
+msgid "Select Map"
+msgstr "Wähle eine Karte"
+
+#: includes/rvm_core.php:44
+msgid "Zoom buttons"
+msgstr "Zoom-Tasten"
+
+#: includes/rvm_core.php:66
+msgid "Map Width"
+msgstr "Kartenbreite"
+
+#: includes/rvm_core.php:67
+msgid "( You can use em, %, px , rem. Leave it blank for a responsive map )"
+msgstr ""
+"(Du kannst em, %, px und rem verwenden. Lassen Sie das Feld für eine selbst "
+"skalierende Karte leer)"
+
+#: includes/rvm_core.php:77
+msgid "Map Padding"
+msgstr "Karten Innenabstand"
+
+#: includes/rvm_core.php:78
+msgid "( You can use em, %, px , rem. Leave it blank for default behaviour )"
+msgstr ""
+"(DU kannst em, %, px und rem verwenden. Leerlassen für das Standardverhalten)"
+
+#: includes/rvm_core.php:88
+msgid "Transparent Canvas"
+msgstr "Transparenter Hintergrund"
+
+#: includes/rvm_core.php:99
+msgid "Canvas  Colour"
+msgstr "Hintergrundfarbe"
+
+#: includes/rvm_core.php:110
+msgid "Map Colour"
+msgstr "Karten Farbe"
+
+#: includes/rvm_core.php:121
+msgid "Borders Color"
+msgstr "Rahmenfarbe"
+
+#: includes/rvm_core.php:132
+msgid "Borders width"
+msgstr "Breite der Grenzen"
+
+#: includes/rvm_core.php:133
+msgid "px ( accepts decimal separated by a dot i.e.: 0.5 )"
+msgstr "px (akzeptiert dezimal Eingaben getrennt durch einen Punkt, d.h.: 0.5)"
+
+#: includes/rvm_core.php:143
+msgid "Enable Subdivision Selected Status"
+msgstr "Status für ausgewählt Unterteilung aktivieren"
+
+#: includes/rvm_core.php:154
+msgid "Subdivisions Selected  Colour"
+msgstr "Farbe für ausgewählte Länder"
+
+#: includes/rvm_core.php:165
+msgid "Subdivisions Hover Colour"
+msgstr "Farbe für Länder, wenn die Maus darüber ist"
+
+#: includes/rvm_core.php:176
+msgid "Subdivisions Hover Colour Opacity"
+msgstr "Sichtbarkeit der Länder, wenn die Maus darüber ist"
+
+#: includes/rvm_core.php:177
+msgid "value must be between 0 and 1 i.e.: 0.5"
+msgstr "Wert muss zwischen 0 und 1 liegen, also: 0.5"
+
+#: includes/rvm_core.php:187
+msgid "Get rid of Subdivisions names"
+msgstr "Entfernen Sie den Namen der Unterteilungen"
+
+#: includes/rvm_core.php:188
+msgid ""
+"When checked, Subdivisions names will not be displayed when mouse hovers "
+"over subdivisions on front end"
+msgstr ""
+"Wenn diese Option aktiviert ist, werden die Namen der Unterabteilungen nicht "
+"angezeigt, wenn die Maus über die Unterabteilungen im Frontend schwebt"
+
+#: includes/rvm_core.php:198
+msgid "Links target "
+msgstr "Ziel Link "
+
+#: includes/rvm_core.php:199
+msgid "Open all url in a new window"
+msgstr "Öffne alle Links in einem neuen Fenster"
+
+#: includes/rvm_core.php:241
+msgid "Markers Background Color"
+msgstr "Hintergrundfarbe der Markierungen"
+
+#: includes/rvm_core.php:251
+msgid "Markers Border Color"
+msgstr "Rahmenfarbe der Markierungen"
+
+#: includes/rvm_core.php:261
+msgid "Minimum Value"
+msgstr "Minimalwert"
+
+#: includes/rvm_core.php:271
+msgid "Maximum Value"
+msgstr "Maximalwert"
+
+#: includes/rvm_core.php:281
+msgid "Markers rain"
+msgstr "Markierungen einregnen lassen"
+
+#: includes/rvm_core.php:282
+msgid ""
+"When checked, Markers pinpoints will fall down from top of the map on "
+"scrolling"
+msgstr ""
+"Wenn ausgewählt, werden die Markierungen beim Scrollen, von oben auf die "
+"Karte herunterfallen"
+
+#: includes/rvm_core.php:298
+msgid "Italy"
+msgstr "Italien"
+
+#: includes/rvm_core.php:308
+msgid "World"
+msgstr "Welt"
+
+#: includes/rvm_core.php:396
+msgid "RVM - Maps"
+msgstr "Karten"
+
+#: includes/rvm_core.php:397
+msgid "RVM Singular Name"
+msgstr "Karten Singular Name"
+
+#: includes/rvm_core.php:398 includes/rvm_core.php:399
+msgid "Add New Map"
+msgstr "Karte hinzufügen"
+
+#: includes/rvm_core.php:400
+msgid "Edit Map"
+msgstr "Karte bearbeiten"
+
+#: includes/rvm_core.php:401
+msgid "New Map"
+msgstr "Neue Karte"
+
+#: includes/rvm_core.php:402
+msgid "View This Map"
+msgstr "Karte ansehen"
+
+#: includes/rvm_core.php:403
+msgid "Search Maps"
+msgstr "Karten durchsuchen"
+
+#: includes/rvm_core.php:404
+msgid "No Maps Found"
+msgstr "Keine Karten gefunden"
+
+#: includes/rvm_core.php:405
+msgid "No Maps Found in Trash"
+msgstr "Keine Karten im Papierkorb"
+
+#: includes/rvm_core.php:406
+msgid "Parent Maps Colon"
+msgstr "Übergeordnete Karten Punkt"
+
+#: includes/rvm_core.php:407
+msgid "RVM Maps"
+msgstr "Karten"
+
+#: includes/rvm_core.php:409
+msgid "Responsive Vector Map Wherever You Like"
+msgstr "Responsive Vector Map wo immer du möchtest"
+
+#: includes/rvm_core.php:432
+msgid "Settings For:"
+msgstr "Einstellungen für:"
+
+#: includes/rvm_core.php:518
+msgid "Main Settings "
+msgstr "Allgemine-Einstellungen "
+
+#: includes/rvm_core.php:532
+msgid "Subdivisions "
+msgstr "Länder "
+
+#: includes/rvm_core.php:533
+msgid "Markers "
+msgstr "Markierungen "
+
+#: includes/rvm_core.php:553
+msgid "It seems custom map is not in upload dir anymore"
+msgstr ""
+"Es scheint, dass deine individuelle Karte nicht mehr \"Uploads\"-Verzeichnis "
+"ist"
+
+#: includes/rvm_core.php:554
+msgid "Please, do not click on \"Update\" "
+msgstr "Bitte klicke nicht auf \"Aktualisieren\" "
+
+#: includes/rvm_core.php:555
+msgid "This is the path where custom map should be :  "
+msgstr "Dies ist der Weg, auf dem benutzerdefinierte Karte sein sollte:  "
+
+#: includes/rvm_core.php:556
+msgid "Please remove this map from posts / pages / widgets "
+msgstr "Bitte entferne diese Karte von Beiträgen / Seiten / Widgets "
+
+#: includes/rvm_core.php:557
+msgid ""
+"In order to use this map upload again using the media uploader and use \"Add "
+"Custom Map\" in the select drop down "
+msgstr ""
+"Um diese Karte zu verwenden, lade sie erneut mit dem \"Media-Uploader\" hoch "
+"und verwende \"Individuelle Karte hinzufügen\" im Auswahl Menü "
+
+#: includes/rvm_core.php:567
+msgid "Sorry, this map is no longer available by default.<br>"
+msgstr ""
+"Entschuldigung. diese Karte ist standardmäßig nicht mehr verfügbar.<br>"
+
+#: includes/rvm_core.php:568
+msgid "You can now download map here"
+msgstr "Hier kannst du sich die Karte jetzt herunterladen"
+
+#: includes/rvm_core.php:618
+msgid "Subdivisions Hover Status"
+msgstr "Status der Länder, wenn die Maus darüber ist"
+
+#: includes/rvm_core.php:620
+msgid "Subdivisions Selected Status"
+msgstr "Status ausgewählter Länder"
+
+#: includes/rvm_core.php:632
+msgid "Select..."
+msgstr "Auswählen.."
+
+#: includes/rvm_core.php:636
+msgid "Custom Maps"
+msgstr "Eigene Karten"
+
+#: includes/rvm_core.php:646
+msgid "Default Maps"
+msgstr "Standard-Karten"
+
+#: includes/rvm_core.php:657
+msgid "Selected Map"
+msgstr "Ausgewählte Karte"
+
+#: includes/rvm_core.php:713
+msgid "General Link Settings"
+msgstr "Allgemeine Link-Einstellungen"
+
+#: includes/rvm_core.php:813 includes/rvm_core.php:822
+msgid "Map Preview ( update post first )"
+msgstr "Kartenvorschau (Post zuerst aktualisieren)"
+
+#: includes/rvm_core.php:814 includes/rvm_core.php:823
+msgid "Close Map Preview"
+msgstr "Kartenvorschau schließen"
+
+#: includes/rvm_core.php:829
+msgid ""
+"Copy and paste following shortcode to display this map wherever you like "
+"( only once per post/sidebar per page ) :"
+msgstr ""
+"Kopiere den folgenden Kurzcode und fügen ihn ein wo immer du möchtest ein, "
+"um diese Karte anzuzeigen. (Allerdings geht dies nur einmal pro Seite/"
+"Beitrag/Seitenleiste):"
+
+#: includes/rvm_core.php:830
+msgid ""
+"In order to see the map using the \"View post\" link of this page, please "
+"<strong>copy and paste</strong> the shortcode into the editor and save the "
+"post. If you get a 404 just go to \"Settings\" > \"Permalinks\" and save "
+"again your settings"
+msgstr ""
+"Um die Karte mit dem Link \"Beitrag anzeigen\" zu sehen, <strong>kopiere "
+"bitte den Kurzcode, und füge ihn in den Editor ein und speichere den "
+"Beitrag</strong>. Wenn du einen 404 Fehler erhälst, gehe einfach zu "
+"\"Einstellungen\" > \"Permalinks\" und speichere deine Einstellungen erneut"
+
+#: includes/rvm_core.php:1021
+msgid "Map name"
+msgstr "Kartenname"
+
+#: includes/rvm_core.php:1022
+msgid "Shortcode"
+msgstr "Kurzcode"
+
+#: includes/rvm_core.php:1023
+msgid "Date"
+msgstr "Datum"
+
+#: includes/rvm_donation.php:11
+msgid "Do you like RVM? Please consider making a donation now"
+msgstr "Gefällt Ihnen RVM? Bitte überlegen Sie, jetzt für uns zu Spende"
+
+#: includes/rvm_download_custom_maps.php:13
+msgid ""
+"Looking for a map ? Check our website !<br> More then 200 cool and cheap "
+"maps available"
+msgstr ""
+"Auf der Suche nach einer Karte? Schauen Sie sich unsere Website an!<br /"
+">Dort sind mehr als 200 coole und günstige Karten verfügbar"
+
+#: includes/rvm_global_settings.php:15
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/rvm_global_settings.php:23
+msgid "RVM settings"
+msgstr "Karten-Einstellungen"
+
+#: includes/rvm_global_settings.php:24 includes/rvm_global_settings.php:77
+msgid "RVM global settings"
+msgstr "Karten Einstellungen"
+
+#: includes/rvm_global_settings.php:39
+msgid "Main settings"
+msgstr "Allgemine-Einstellungen"
+
+#: includes/rvm_global_settings.php:44
+msgid "Disable wp_emoji"
+msgstr "WP Emojis abschalten"
+
+#: includes/rvm_global_settings.php:65
+msgid ""
+"In case you may notice issues related to wp_emoji enable following checkbox. "
+"It's well documented this script has problems with svg ( vector images ) on "
+"which RVM relies on."
+msgstr ""
+"Falls Sie Probleme im Zusammenhang mit wp_emoji bemerken, aktivieren Sie das "
+"folgende Kästchen. Es ist gut dokumentiert, dass dieses Skript Probleme mit "
+"svg (Vektorbildern) hat, auf das sich \"Karten\" stützt."
+
+#: includes/rvm_global_settings.php:82
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: includes/rvm_markers.php:29
+msgid ""
+"It seems there is no marker module installed or maybe was deleted. Please "
+"reinstall it using RVM global settings in Settings menu"
+msgstr ""
+"Es scheint, dass das Markierung-Modul nich installiert ist oder "
+"möglicherweise gelöscht wurde. Bitte installieren Sie es neu über die "
+"globalen Karten-Einstellungen im Menü Einstellungen"
+
+#: includes/rvm_markers.php:33
+msgid ""
+"Tired to use the default circle icon for Markers' pinpoints? This is the "
+"right time to <a href=\"https://www.responsivemapsplugin.com/redirect-to-"
+"marker-icon-module-from-plugin-dashboard/\" target=\"_blank\">download the "
+"Custom Icon Marker Module!</a>"
+msgstr ""
+"Sind sie gelangweilt davon, das Standard-Kreissymbol für Markierungen zu "
+"verwenden? Dann ist dies der richtige Zeitpunkt, um <a href=\"https://www."
+"selbst skalierendemapsplugin.com/redirect-to-marker-icon-module-from-plugin-"
+"dashboard/\" target=\"_blank\">das \"Individuelle Markierungssymbole-Modul "
+"herunterzuladen!</a>"
+
+#: includes/rvm_markers.php:38
+msgid "Create New Markers"
+msgstr "Neue Markierungen erstellen"
+
+#: includes/rvm_markers.php:39
+msgid "Add Markers"
+msgstr "Markierungen hinzufügen"
+
+#: includes/rvm_markers.php:47
+msgid " ( Not visible in map preview )"
+msgstr " (In der Kartenvorschau nicht sichtbar)"
+
+#: includes/rvm_markers.php:55
+msgid "Html popup label"
+msgstr "Popup-Label"
+
+#: includes/rvm_markers.php:65
+msgid "Delete all Markers"
+msgstr "Alle Markierungen löschen"
+
+#: includes/rvm_markers.php:73
+msgid "Markers Colours"
+msgstr "Farbe der Markierungen"
+
+#: includes/rvm_markers.php:83
+msgid "Markers Dimensions"
+msgstr "Abmessungen der Markierungen"
+
+#: includes/rvm_markers.php:84
+msgid ""
+"Minimum and maximum values will affect the radius dimensions of the Markers. "
+"Basically they are a scale within input values for marker dimensions will be "
+"represented. The smallest will be equal to \"minimum value\" while the "
+"biggest will be equal to \"maximum value\". Default values are"
+msgstr ""
+"Minimal-und Maximalwerte wirken sich auf die Radiusmaße der Markierung aus. "
+"Grundsätzlich handelt es sich dabei um eine Skala innerhalb von "
+"Eingangswerten für Markierungs-Dimensionen, die dargestellt werden. Der "
+"kleinste wird gleich \"minimaler Wert\" sein, während der größte gleich "
+"\"maximaler Wert\" sein wird. Standardwerte sind"
+
+#: includes/rvm_markers.php:84
+msgid " and "
+msgstr " und "
+
+#: includes/rvm_markers.php:90
+msgid "Effects"
+msgstr "Effekte"
+
+#: includes/rvm_markers.php:96 includes/rvm_markers.php:98
+msgid "Export Markers"
+msgstr "Markierungen Exportieren"
+
+#: includes/rvm_markers.php:103
+msgid "Import Markers  ( please use exported files from RVM only )"
+msgstr ""
+"Markierungen Importieren (bitte nur exportierte Dateien von dieser "
+"Erweiterung verwenden)"
+
+#: includes/rvm_markers.php:106
+msgid "Select Markers File"
+msgstr "Markierungen-Datei auswählen"
+
+#: includes/rvm_markers.php:107
+msgid "Import Markers"
+msgstr "Markierungen Importieren"
+
+#: includes/rvm_markers.php:108 includes/rvm_regions.php:60
+msgid "Restore old values"
+msgstr "Alte Werte wiederherstellen"
+
+#: includes/rvm_regions.php:39
+msgid ""
+"Label popup ( allowed html tags : a, b, div, em, headings, img, p, table, "
+"span, ul, ol and CSS class and id selector )"
+msgstr ""
+"Label-Popup (erlaubte HTML-Tags: a, b, div, em, headers, img, p, table, "
+"span, ul, ol und CSS-Klassen- und ID-Selektor)"
+
+#: includes/rvm_regions.php:50
+msgid "Export Subdivisions Settings"
+msgstr "Export Einstellungen für Länder"
+
+#: includes/rvm_regions.php:52
+msgid "Export Subdivisions"
+msgstr "Länder Export"
+
+#: includes/rvm_regions.php:55
+msgid ""
+"Import Subdivisions settings ( please use exported files from RVM only )"
+msgstr ""
+"Import Einstellungen für Länder (bitte nur exportierte Dateien von Karten "
+"verwenden)"
+
+#: includes/rvm_regions.php:58
+msgid "Select Subdivisions File"
+msgstr "Wähle die Datei mit den Länder"
+
+#: includes/rvm_regions.php:59
+msgid "Import Subdivisions Settings"
+msgstr "Einstellungen für Unterteilungs-Import"
+
+#: includes/rvm_shortcode.php:676
+msgid "Unfortunately map is no longer available"
+msgstr "Karte ist leider nicht mehr verfügbar"
+
+#: includes/rvm_style_and_script.php:93
+msgid "Loading..."
+msgstr "Laden..."
+
+#: includes/rvm_style_and_script.php:104
+msgid "Unzip custom map"
+msgstr "Entpacke benutzerdefinierte Karte"
+
+#: includes/rvm_style_and_script.php:105
+msgid "Installing Map..."
+msgstr "Installiere Karte ..."
+
+#: includes/rvm_style_and_script.php:106 includes/rvm_style_and_script.php:119
+msgid "Registering..."
+msgstr "Registriere..."
+
+#: includes/rvm_style_and_script.php:107
+msgid "Oops, seems someone needs to select a map first, correct?"
+msgstr "Oops, scheint, als müssten Sie zuerst eine Karte wählen, richtig?"
+
+#: includes/rvm_style_and_script.php:110
+msgid ""
+"Markers correctly imported. Remember <strong>to update this post</strong> in "
+"order to save imported markers into database."
+msgstr ""
+"Markierungen korrekt importiert. Denken Sie daran, <strong>diesen Beitrag</"
+"strong> zu aktualisieren, um importierte Markierung in die Datenbank zu "
+"speichern."
+
+#: includes/rvm_style_and_script.php:111
+msgid ""
+"Subdivisions correctly imported. Remember <strong>to update this post</"
+"strong> in order to save imported subdivisions into database"
+msgstr ""
+"Länder korrekt importiert. Denken Sie daran, <strong>diesen Beitrag</strong> "
+"zu aktualisieren, um importierte Länder in die Datenbank zu speichern"
+
+#: includes/rvm_style_and_script.php:113
+msgid "Please import the correct file with this exact name:"
+msgstr "Bitte importieren Sie die richtige Datei mit genau diesem Namen:"
+
+#: includes/rvm_style_and_script.php:114
+msgid "Close preview"
+msgstr "Kartenvorschau schließen"
+
+#: includes/rvm_style_and_script.php:118
+msgid "Installing Marker Module..."
+msgstr "Installiere Markierung-Modul..."
+
+#: includes/rvm_style_and_script.php:120
+msgid "Oops, seems someone needs to select a marker module first, correct?"
+msgstr ""
+"Oops, es scheint, das Markierung-Modul muss zuerst gewählt werden, richtig?"
+
+#: responsive_vector_maps.php:47
+msgid "Display the map widget"
+msgstr "Anzeige des Karte Widget"
+
+#. Plugin Name of the plugin/theme
+msgid "RVM - Responsive Vector Maps"
+msgstr "RVM-Responsive Vector Maps"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.responsivemapsplugin.com/"
+msgstr "https://www.selbst skalierendemapsplugin.com/"
+
+#. Description of the plugin/theme
+msgid "Use RVM to create clickable and responsive vector maps in few steps."
+msgstr ""
+"Verwenden Sie diese Erweiterung, um so viele vektorbasierte Karten zu "
+"erstellen, wie Sie möchten... Hören Sie auf, \"Area Tags\" zu benutzen, um "
+"deine verlinkbaren Karten zu erstellen."
+
+#. Author of the plugin/theme
+msgid "Enrico Urbinati"
+msgstr "Enrico Urbinati"
+
+#~ msgid "You have succesfully installed your custom map . Well done! "
+#~ msgstr "Du hast erfolgreich deine eigene Karte installiert. Gut gemacht! "
+
+#~ msgid "Now you can <strong>Publish</strong> your post."
+#~ msgstr "Jetzt kannst du deinen Beitrag <strong>veröffentlichen</strong>."
+
+#~ msgid ""
+#~ "Damn it... Something went wrong !  Please check if name of the map is "
+#~ "correct ( place just map name)  or if you have uploaded the map previous "
+#~ "month and try again uploading map now using wordpress media uploader."
+#~ msgstr ""
+#~ "Verdammt... Da ist etwas schief gelaufen!  Bitte prüfe, ob der Name der "
+#~ "Karte korrekt ist (prüfe nur den Kartenname) oder ob du die Karte im "
+#~ "Vormonat hochgeladen hast, und versuche jetzt erneut, die Karte mit dem "
+#~ "Wordpress-Medien-Uploader hochzuladen."
+
+#~ msgid "It seems there is no directory where to find your map!"
+#~ msgstr ""
+#~ "Es scheint, dass es kein Verzeichnis gibt, in dem deine Karte zu finden "
+#~ "ist!"
+
+#~ msgid ""
+#~ "You have not unzip_file() function available for you WP or you did not "
+#~ "provided a valid map name... come on !"
+#~ msgstr ""
+#~ "Du hast keine unzip_file()-Funktion für dein WP oder du hast keinen "
+#~ "gültigen Kartennamen angegeben... Komm schon!"
+
+#~ msgid "Please select the custom map option from the drop menu "
+#~ msgstr "Bitte wähle die individuelle Kartenoption aus dem Auswahl-Menü "
+
+#~ msgid "Marker module installed correctly"
+#~ msgstr "Markierung-Modul korrekt installiert"
+
+#~ msgid ""
+#~ "You have not unzip_file() function available for you WP or you did not "
+#~ "provided a valid marker module!"
+#~ msgstr ""
+#~ "Du hast keine unzip_file()-Funktion für dein WP oder du hast kein "
+#~ "gültiges Marker-Modul zur Verfügung gestellt!"
+
+#~ msgid "It seems you are trying to upload an incorrect file"
+#~ msgstr "Es scheint, dass du versuchst, eine falsche Datei hochzuladen"
+
+#~ msgid "Uhmmm... there are some issues installing the marker module"
+#~ msgstr ""
+#~ "Mh... Es gibt einige Probleme mit der Installation des Markierungs-Moduls"
+
+#~ msgid "Default marker icon correctly restored !"
+#~ msgstr "Standard-Markierung-Symbol korrekt wiederhergestellt!"
+
+#~ msgid "Uhmmm... there are some issues restoring the marker icon"
+#~ msgstr ""
+#~ "Mh... Es gibt einige Probleme, beim wiederherstellen des Markierungssymbol"
+
+#~ msgid "There are some issues here: have you selected correct csv file?"
+#~ msgstr "Es gibt einige Probleme: Hast du die richtige csv-Datei ausgewählt?"
+
+#~ msgid ""
+#~ "<span class=\"rvm_field_descr rvm_notice_messages\">Not visible in map "
+#~ "preview . You can enable it for each region in <strong>\"Subdivisions\"</"
+#~ "strong> tab</span>"
+#~ msgstr ""
+#~ "<span class=\"rvm_field_descr rvm_notice_messages\">Nicht sichtbar in der "
+#~ "Kartenvorschau. Du kannst dies für jede Region in der Registerkarte "
+#~ "<strong>\"Länder\"</strong> aktivieren</span>"
+
+#~ msgid ""
+#~ "<span class=\"rvm_field_descr rvm_notice_messages\">value must be between "
+#~ "0 and 1 i.e.: 0.5</span>"
+#~ msgstr ""
+#~ "<span class=\"rvm_field_descr rvm_notice_messages\">Der Wert muss "
+#~ "zwischen 0 und 1 sein, d.h.: 0.5</span>"
+
+#~ msgid "Not visible in map preview"
+#~ msgstr "Nicht sichtbar in der Kartenvorschau"
+
+#~ msgid "Add Custom Map &raquo;"
+#~ msgstr "Neue individuelle Karte hinzufügen &raquo;"
+
+#~ msgid "Map Colours Preview"
+#~ msgstr "Kartenfarben-Vorschau"
+
+#~ msgid "Help us to keep RVM free... support <strong>RVM</strong> now"
+#~ msgstr ""
+#~ "Helfen Sie uns, Karten kostenfrei zu halten... Unterstützen Sie "
+#~ "<strong>Karten</strong> jetzt"
+
+#~ msgid "Install module for custom marker icon"
+#~ msgstr "Modul für benutzerdefinierte Markierung-Symbole installieren"
+
+#~ msgid "Select Marker Module"
+#~ msgstr "Markierung-Modul auswählen"
+
+#~ msgid "Install Marker Module"
+#~ msgstr "Markierung-Modul installieren"
+
+#~ msgid "Marker Module installed"
+#~ msgstr "Markierung-Modul installiert"
+
+#~ msgid "Oops... I messed up, I want to go back"
+#~ msgstr "Oops... Ich bin durcheinander gekommen, ich will zurück"
+
+#~ msgid "( Not visible in map preview )"
+#~ msgstr "(In der Kartenvorschau nicht sichtbar)"
+
+#~ msgid "Oops...I messed up, I want to go back"
+#~ msgstr "Oops... Ich bin durcheinander gekommen, ich will zurück"

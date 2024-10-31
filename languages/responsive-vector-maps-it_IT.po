@@ -1,0 +1,737 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RVM trans 1.0\n"
+"POT-Creation-Date: 2022-02-08 12:21+0100\n"
+"PO-Revision-Date: 2022-02-08 12:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: info@responsivemapsplugin.com\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/rvm_ajax_call.php:83 includes/rvm_ajax_call.php:87
+#: includes/rvm_ajax_call.php:92 includes/rvm_regions.php:27
+#: includes/rvm_regions.php:31
+msgid "Subdivisions name"
+msgstr "Nome della suddivisione"
+
+#: includes/rvm_ajax_call.php:83 includes/rvm_ajax_call.php:92
+#: includes/rvm_ajax_call.php:170 includes/rvm_markers.php:53
+#: includes/rvm_regions.php:27
+msgid "Link"
+msgstr ""
+
+#: includes/rvm_ajax_call.php:87 includes/rvm_regions.php:31
+msgid "Show following tag (use ID selector without \"#\")"
+msgstr "Mostra il seguente blocco html ( usa il selettore ID senza “#”)"
+
+#: includes/rvm_ajax_call.php:89 includes/rvm_regions.php:33
+msgid "Fake input field just for serializing consistency"
+msgstr "Campo fittizio al solo scopo della consistenza nella serializzazione"
+
+#: includes/rvm_ajax_call.php:89 includes/rvm_regions.php:33
+msgid "Open label on default"
+msgstr "Mostra l’etichetta sul predefinito"
+
+#: includes/rvm_ajax_call.php:95 includes/rvm_regions.php:36
+msgid "Background color"
+msgstr "Colore di sfondo"
+
+#: includes/rvm_ajax_call.php:95 includes/rvm_regions.php:36
+msgid "Background"
+msgstr "Sfondo"
+
+#: includes/rvm_ajax_call.php:98
+msgid "Label popup"
+msgstr "Popup etichetta"
+
+#: includes/rvm_ajax_call.php:99 includes/rvm_regions.php:40
+msgid ""
+"Activate Mouse Over Background <br> <span class=\"rvm_small_text\">hold  "
+"[SHIFT] key for multiple select</span>"
+msgstr ""
+"Attiva lo sfondo al passaggio del mouse <br> <span class=\"rvm_small_text"
+"\">tieni premuto  [SHIFT] per una selezione multipla</span>"
+
+#: includes/rvm_ajax_call.php:101 includes/rvm_ajax_call.php:103
+#: includes/rvm_regions.php:41
+msgid "When click onto this subdivision: "
+msgstr "Quando si fa clic su questa suddivisione: "
+
+#: includes/rvm_ajax_call.php:101 includes/rvm_ajax_call.php:103
+#: includes/rvm_regions.php:41
+msgid "Open link"
+msgstr "Apri il link"
+
+#: includes/rvm_ajax_call.php:101 includes/rvm_ajax_call.php:103
+#: includes/rvm_regions.php:41
+msgid "Open label content onto default card"
+msgstr "Mostra il contenuto etichetta sulla mappa"
+
+#: includes/rvm_ajax_call.php:101 includes/rvm_ajax_call.php:103
+#: includes/rvm_regions.php:41
+msgid "Show custom selector"
+msgstr "Mostra un blocco html ( ID )"
+
+#: includes/rvm_ajax_call.php:164 includes/rvm_markers.php:47
+msgid "Added Markers"
+msgstr "Marcatori aggiunti"
+
+#: includes/rvm_ajax_call.php:167 includes/rvm_markers.php:50
+msgid "Name"
+msgstr "Nome"
+
+#: includes/rvm_ajax_call.php:168 includes/rvm_markers.php:51
+msgid "Latitude"
+msgstr "Latitudine"
+
+#: includes/rvm_ajax_call.php:169 includes/rvm_markers.php:52
+msgid "Longitude"
+msgstr "Longitudine"
+
+#: includes/rvm_ajax_call.php:171 includes/rvm_markers.php:54
+msgid "Dimension"
+msgstr "Dimensione"
+
+#: includes/rvm_ajax_call.php:171 includes/rvm_markers.php:54
+msgid "Use only integer or decimal"
+msgstr "Usa solo integrali o decimali"
+
+#: includes/rvm_ajax_call.php:171 includes/rvm_markers.php:54
+msgid "e.g. 591.20"
+msgstr "es.: 591.20"
+
+#: includes/rvm_ajax_call.php:172
+msgid "Popup label"
+msgstr "Popup etichetta"
+
+#: includes/rvm_ajax_call.php:172 includes/rvm_markers.php:55
+msgid "e.g. Rome precipitation (mm) long term averages"
+msgstr "es.: precipitazioni medie a Roma in termini di mm sul lungo periodo"
+
+#: includes/rvm_ajax_call.php:173 includes/rvm_markers.php:56
+msgid "Remove"
+msgstr "Elimina"
+
+#: includes/rvm_core.php:66
+msgid "Map Width"
+msgstr "Larghezza Mappa"
+
+#: includes/rvm_core.php:67
+msgid "( You can use em, %, px , rem. Leave it blank for a responsive map )"
+msgstr "( Puoi usare em, %, px , rem. Lascia vuoto per una mappa responsive )"
+
+#: includes/rvm_core.php:77
+msgid "Map Padding"
+msgstr "Padding della Mappa"
+
+#: includes/rvm_core.php:78
+msgid "( You can use em, %, px , rem. Leave it blank for default behaviour )"
+msgstr ""
+"( Puoi usare em, %, px , rem. Lascia vuoto per il comportamento predefinito )"
+
+#: includes/rvm_core.php:88
+msgid "Transparent Canvas"
+msgstr "Sfondo Mappa Trasparente"
+
+#: includes/rvm_core.php:99
+msgid "Canvas  Colour"
+msgstr "Colore dello Sfondo Mappa"
+
+#: includes/rvm_core.php:110
+msgid "Map Colour"
+msgstr "Colore della Mappa"
+
+#: includes/rvm_core.php:121
+msgid "Borders Color"
+msgstr "Colore dei Bordi"
+
+#: includes/rvm_core.php:132
+msgid "Borders width"
+msgstr "Grandezza dei Bordi"
+
+#: includes/rvm_core.php:133
+msgid "px ( accepts decimal separated by a dot i.e.: 0.5 )"
+msgstr "px ( accetta decimali separati dal punto .es.: 0.5 )"
+
+#: includes/rvm_core.php:143
+msgid "Enable Subdivision Selected Status"
+msgstr "Abilita lo Stato “Selezionato” per le Suddivisioni"
+
+#: includes/rvm_core.php:154
+msgid "Subdivisions Selected  Colour"
+msgstr "Colore dello Stato “Selezionato” per le Suddivisioni"
+
+#: includes/rvm_core.php:165
+msgid "Subdivisions Hover Colour"
+msgstr "Colore delle Suddivisioni al Passaggio del Mouse"
+
+#: includes/rvm_core.php:176
+msgid "Subdivisions Hover Colour Opacity"
+msgstr "Opacità del Colore al Passaggio del Mouse"
+
+#: includes/rvm_core.php:177
+msgid "value must be between 0 and 1 i.e.: 0.5"
+msgstr "Il valore deve essere compreso tra 0 e 1, per esempio : 0.5"
+
+#: includes/rvm_core.php:187
+msgid "Get rid of Subdivisions names"
+msgstr "Non visualizzare i nomi delle Suddivisioni"
+
+#: includes/rvm_core.php:188
+msgid ""
+"When checked, Subdivisions names will not be displayed when mouse hovers "
+"over subdivisions on front end"
+msgstr ""
+"Una volta spuntato, i nomi delle Suddivisioni non saranno più mostrate al "
+"momento del passaggio sopra del mouse"
+
+#: includes/rvm_core.php:198
+msgid "Links target "
+msgstr "Target dei Link "
+
+#: includes/rvm_core.php:199
+msgid "Open all url in a new window"
+msgstr "Apri le URL in una nuova finestra"
+
+#: includes/rvm_core.php:241
+msgid "Markers Background Color"
+msgstr "Colore di Sfondo dei Marcatori"
+
+#: includes/rvm_core.php:251
+msgid "Markers Border Color"
+msgstr "Colore dei Bordi dei Marcatori"
+
+#: includes/rvm_core.php:261
+msgid "Minimum Value"
+msgstr "Valore Minimo"
+
+#: includes/rvm_core.php:271
+msgid "Maximum Value"
+msgstr "Valore Massimo"
+
+#: includes/rvm_core.php:281
+msgid "Markers rain"
+msgstr "Pioggia di Marcatori"
+
+#: includes/rvm_core.php:282
+msgid ""
+"When checked, Markers pinpoints will fall down from top of the map on "
+"scrolling"
+msgstr ""
+"Se abilitato, i segnaposto dei Marcatori cadranno dal lato superiore della "
+"mappa"
+
+#: includes/rvm_core.php:298
+msgid "Italy"
+msgstr "Italia"
+
+#: includes/rvm_core.php:308
+msgid "World"
+msgstr "Mondo"
+
+#: includes/rvm_core.php:813 includes/rvm_core.php:822
+msgid "Map Preview ( update post first )"
+msgstr "Anteprima mappa ( aggiornare prima il post )"
+
+#: includes/rvm_core.php:814 includes/rvm_core.php:823
+msgid "Close Map Preview"
+msgstr "Chiudi Anteprima Mappa"
+
+#: includes/rvm_core.php:829
+msgid ""
+"Copy and paste following shortcode to display this map wherever you like "
+"( only once per post/sidebar per page ) :"
+msgstr ""
+"Copia ed incolla il seguente shortcode per mostrare la mappa ovunque tu "
+"voglia ( una mappa soltanto per pagina ) :"
+
+#: includes/rvm_core.php:830
+msgid ""
+"In order to see the map using the \"View post\" link of this page, please "
+"<strong>copy and paste</strong> the shortcode into the editor and save the "
+"post. If you get a 404 just go to \"Settings\" > \"Permalinks\" and save "
+"again your settings"
+msgstr ""
+"Per vedere questa mappa nel browser usando il link “Vedi articolo” di questa "
+"pagina, per cortesia <strong>copia ed incolla</strong> lo “shortcode” "
+"nell’editor e salva l’articolo. Nel caso ricevessi un errore 404 vai "
+"semplicemente ad “Impostazioni” > “Permalinks” e salva"
+
+#: includes/rvm_download_custom_maps.php:13
+msgid ""
+"Looking for a map ? Check our website !<br> More then 200 cool and cheap "
+"maps available"
+msgstr ""
+"Cerchi una mappa ? Fatti un giro sul nostro sito web ! <br> Più di 200 mappe "
+"professionali ed economiche disponibili"
+
+#: includes/rvm_global_settings.php:65
+msgid ""
+"In case you may notice issues related to wp_emoji enable following checkbox. "
+"It's well documented this script has problems with svg ( vector images ) on "
+"which RVM relies on."
+msgstr ""
+"Nel caso notassi problemi legati a “wp_emoji “, spunta la casella seguente. "
+"È un problema noto l’interazione di questo script con i formati svg "
+"( immagini vettoriali ) su cui si basa RVM."
+
+#: includes/rvm_markers.php:29
+msgid ""
+"It seems there is no marker module installed or maybe was deleted. Please "
+"reinstall it using RVM global settings in Settings menu"
+msgstr ""
+"A quanto pare non c’è nessuno Modulo Marker installato oppure è stato "
+"cancellato. Per favore installalo nuovamente andando sulle impostazioni "
+"globali di RVM nel menù “Impostazioni” di Wordpress"
+
+#: includes/rvm_markers.php:33
+msgid ""
+"Tired to use the default circle icon for Markers' pinpoints? This is the "
+"right time to <a href=\"https://www.responsivemapsplugin.com/redirect-to-"
+"marker-icon-module-from-plugin-dashboard/\" target=\"_blank\">download the "
+"Custom Icon Marker Module!</a>"
+msgstr ""
+"Stanco di usare la solita icona del cerchio come segnaposto dei Marcatori? "
+"Allora è il momento giusto per <a href=\"https://www.responsivemapsplugin."
+"com/redirect-to-marker-icon-module-from-plugin-dashboard/\" target=\"_blank"
+"\">scaricare il Modulo Marker per usare Icone Personalizzate!</a>"
+
+#: includes/rvm_markers.php:38
+msgid "Create New Markers"
+msgstr "Crea  Nuovi Marcatori"
+
+#: includes/rvm_markers.php:39
+msgid "Add Markers"
+msgstr "Aggiungi Marcatori"
+
+#: includes/rvm_markers.php:47
+msgid " ( Not visible in map preview )"
+msgstr " ( Non visibili nell’anteprima della mappa )"
+
+#: includes/rvm_markers.php:55
+msgid "Html popup label"
+msgstr "Etichetta popup html"
+
+#: includes/rvm_markers.php:65
+msgid "Delete all Markers"
+msgstr "Cancella tutti i Marcatori"
+
+#: includes/rvm_markers.php:73
+msgid "Markers Colours"
+msgstr "Colori dei Marcatori"
+
+#: includes/rvm_markers.php:83
+msgid "Markers Dimensions"
+msgstr "Dimensioni dei Marcatori"
+
+#: includes/rvm_markers.php:84
+msgid ""
+"Minimum and maximum values will affect the radius dimensions of the Markers. "
+"Basically they are a scale within input values for marker dimensions will be "
+"represented. The smallest will be equal to \"minimum value\" while the "
+"biggest will be equal to \"maximum value\". Default values are"
+msgstr ""
+"I valori Minimo e Massimo influenzano direttamente le dimensioni del raggio "
+"del segnaposto dei Marker. In pratica sono una scala entro cui i valori dei "
+"campi “Dimensioni” per ogni marker verrà rappresentato. Il marker più "
+"piccolo sarà uguale al valore”Minimo” mentre il più grande avrà il valore "
+"“Massimo”. I valori predefiniti"
+
+#: includes/rvm_markers.php:90
+msgid "Effects"
+msgstr "Effetti"
+
+#: includes/rvm_markers.php:96 includes/rvm_markers.php:98
+msgid "Export Markers"
+msgstr "Esporta i Marcatori"
+
+#: includes/rvm_markers.php:103
+msgid "Import Markers  ( please use exported files from RVM only )"
+msgstr ""
+"Importa i Marcatori ( per favore usa solo file esportati precedentemente da "
+"RVM )"
+
+#: includes/rvm_markers.php:106
+msgid "Select Markers File"
+msgstr "Seleziona il file Marcatori"
+
+#: includes/rvm_markers.php:107
+msgid "Import Markers"
+msgstr "Importa i Marcatori"
+
+#: includes/rvm_markers.php:108 includes/rvm_regions.php:60
+msgid "Restore old values"
+msgstr "Ripristina valori precedenti"
+
+#: includes/rvm_regions.php:39
+msgid ""
+"Label popup ( allowed html tags : a, b, div, em, headings, img, p, table, "
+"span, ul, ol and CSS class and id selector )"
+msgstr ""
+"Etichetta popup ( tag html permessi : a, b, div, em, headings, img, p, "
+"table, span, ul, ol e selettori classe e id CSS )"
+
+#: includes/rvm_regions.php:50
+msgid "Export Subdivisions Settings"
+msgstr "Esporta le Impostazioni delle Suddivisioni"
+
+#: includes/rvm_regions.php:52
+msgid "Export Subdivisions"
+msgstr "Esporta le Suddivisioni"
+
+#: includes/rvm_regions.php:55
+msgid ""
+"Import Subdivisions settings ( please use exported files from RVM only )"
+msgstr ""
+"Importa le impostazioni delle “Suddivisioni” ( per favore usa solamente file "
+"precedentemente esportati da RVM )"
+
+#: includes/rvm_regions.php:58
+msgid "Select Subdivisions File"
+msgstr "Seleziona il File Suddivisioni"
+
+#: includes/rvm_regions.php:59
+msgid "Import Subdivisions Settings"
+msgstr "Importa Suddivisioni1634882"
+
+#: includes/rvm_style_and_script.php:110
+msgid ""
+"Markers correctly imported. Remember <strong>to update this post</strong> in "
+"order to save imported markers into database."
+msgstr ""
+"I Marcatori sono correttamente importati. Ricorda <strong>di aggiornare "
+"questa pagina</strong> affinchè i marcatori vengano salvati  nel database."
+
+#: includes/rvm_style_and_script.php:111
+msgid ""
+"Subdivisions correctly imported. Remember <strong>to update this post</"
+"strong> in order to save imported subdivisions into database"
+msgstr ""
+"Suddivisioni correttamente importate. Ricorda <strong>di aggiornare questa "
+"pagina</strong> affinchè le suddivisioni vengano salvate nel database"
+
+#: responsive_vector_maps.php:47
+msgid "Display the map widget"
+msgstr "Mostra il widget della mappa"
+
+#, fuzzy
+#~| msgid "There was an issue with the preview generation tool"
+#~ msgid ""
+#~ "<div class=\"rvm_messages rvm_error_messages\">There was an issue with "
+#~ "the preview generation tool</div>"
+#~ msgstr "C’è stato un errore con la generazione dell’anteprima"
+
+#, fuzzy
+#~| msgid "Choose a valid map from the drop down menu"
+#~ msgid ""
+#~ "<div class=\"rvm_messages rvm_error_messages\">Choose a valid map from "
+#~ "the drop down menu</div>"
+#~ msgstr "Scegli una mappa corretta dal menù a tendina"
+
+#~ msgid "You have succesfully installed your custom map . Well done! "
+#~ msgstr ""
+#~ "Hai installato con successo la tua mappa personalizzata . Ben fatto! "
+
+#~ msgid "Now you can <strong>Publish</strong> your post."
+#~ msgstr "Adesso puoi  <strong>Pubblicare</strong> il tuo post."
+
+#~ msgid ""
+#~ "Damn it... Something went wrong !  Please check if name of the map is "
+#~ "correct ( place just map name)  or if you have uploaded the map previous "
+#~ "month and try again uploading map now using wordpress media uploader."
+#~ msgstr ""
+#~ "Accidenti… qualcosa è andato storto! Per favore controlla che il nome "
+#~ "della mappa sia corretto ( solo il nome mappa senza estensione ) "
+#~ "altrimenti nel caso tu abbia già installato la mappa il mese precedente "
+#~ "prova nuovamente a ricaricare la mappa tramite l’uploader."
+
+#~ msgid "It seems there is no directory where to find your map!"
+#~ msgstr "Sembra non ci siano cartelle in cui trovare la tua mappa!"
+
+#~ msgid ""
+#~ "You have not unzip_file() function available for you WP or you did not "
+#~ "provided a valid map name... come on !"
+#~ msgstr ""
+#~ "È possibile tu non abbia la funzione unzip_file() disponibile per il tuo "
+#~ "Wordpress, oppure non hai fornito un nome mappa valido!"
+
+#~ msgid "Please select the custom map option from the drop menu "
+#~ msgstr ""
+#~ "Per favore seleziona l’opzione “Mappa personalizzata” nel menù a tendina "
+
+#~ msgid "Marker module installed correctly"
+#~ msgstr "Modulo Marker correttamente installato"
+
+#~ msgid ""
+#~ "You have not unzip_file() function available for you WP or you did not "
+#~ "provided a valid marker module!"
+#~ msgstr ""
+#~ "È possibile tu non abbia la funzione unzip_file() disponibile per il tuo "
+#~ "Wordpress, oppure non hai fornito un nome di modulo marker valido!"
+
+#~ msgid "It seems you are trying to upload an incorrect file"
+#~ msgstr "Credo stia provando ad installare un file non corretto"
+
+#~ msgid "Uhmmm... there are some issues installing the marker module"
+#~ msgstr ""
+#~ "Dannazione… ci sono dei problemi nell’installazione del modulo marker"
+
+#~ msgid "Default marker icon correctly restored !"
+#~ msgstr "Icona per i marker di default ripristinata!"
+
+#~ msgid "Uhmmm... there are some issues restoring the marker icon"
+#~ msgstr ""
+#~ "Dannazione… ci sono problemi nelripristino dell’icona marker predefinita"
+
+#~ msgid "There are some issues here: have you selected correct csv file?"
+#~ msgstr "Sembra ci siano dei problemi: hai selezionato il file corretto?"
+
+#~ msgid "Select Map"
+#~ msgstr "Seleziona la mappa"
+
+#~ msgid "Zoom buttons"
+#~ msgstr "Bottoni di zoom"
+
+#~ msgid ""
+#~ "<span class=\"rvm_field_descr rvm_notice_messages\">Not visible in map "
+#~ "preview . You can enable it for each region in <strong>\"Subdivisions\"</"
+#~ "strong> tab</span>"
+#~ msgstr ""
+#~ "<span class=\"rvm_field_descr rvm_notice_messages\">Non visibile in "
+#~ "anteprima. Puoi abilitarli nel tab <strong>”Suddivisioni”</strong></span>"
+
+#~ msgid ""
+#~ "<span class=\"rvm_field_descr rvm_notice_messages\">value must be between "
+#~ "0 and 1 i.e.: 0.5</span>"
+#~ msgstr ""
+#~ "<span class=\"rvm_field_descr rvm_notice_messages\">il valore deve essere "
+#~ "compreso tra 0 e 1 es.: 0.5</span>"
+
+#~ msgid "Not visible in map preview"
+#~ msgstr "Non visibile in anteprima mappa"
+
+#~ msgid "RVM - Maps"
+#~ msgstr "RVM - Mappe"
+
+#~ msgid "RVM Singular Name"
+#~ msgstr "RVM Nome Singolo"
+
+#~ msgid "Add New Map"
+#~ msgstr "Aggiungi una Nuova Mappa"
+
+#~ msgid "Edit Map"
+#~ msgstr "Modifica Mappa"
+
+#~ msgid "New Map"
+#~ msgstr "Nuova Mappa"
+
+#~ msgid "View This Map"
+#~ msgstr "Apri Questa Mappa"
+
+#~ msgid "Search Maps"
+#~ msgstr "Cerca Mappe"
+
+#~ msgid "No Maps Found"
+#~ msgstr "Nessuna Mappa trovata"
+
+#~ msgid "No Maps Found in Trash"
+#~ msgstr "Nessuna Mappa Trovata nel Cestino"
+
+#~ msgid "RVM Maps"
+#~ msgstr "Mappe RVM"
+
+#~ msgid "Responsive Vector Map Wherever You Like"
+#~ msgstr "Responsive Vector Map Ovunque Tu Voglia"
+
+#~ msgid "Settings For:"
+#~ msgstr "Impostazioni Per:"
+
+#~ msgid "Main Settings "
+#~ msgstr "Impostazioni Principali "
+
+#~ msgid "Subdivisions "
+#~ msgstr "Suddivisioni "
+
+#~ msgid "Markers "
+#~ msgstr "Marcatori "
+
+#~ msgid "It seems custom map is not in upload dir anymore"
+#~ msgstr "A quanto pare la mappa non si trova più nella cartella uploads"
+
+#~ msgid "<strong>Please, do not click on \"Update\"</strong> "
+#~ msgstr "<strong>Per favore non cliccare sul tasto “Aggiorna”</strong> "
+
+#~ msgid "This is the path where custom map should be :  "
+#~ msgstr "Questo è il percorso dove dovrebbe trovarsi la mappa : "
+
+#~ msgid "Please remove this map from posts / pages / widgets "
+#~ msgstr "Per favore rimuovi questa mappa da articoli / pagine / widgets "
+
+#~ msgid ""
+#~ "In order to use this map upload again using the media uploader and use "
+#~ "\"Add Custom Map\" in the select drop down "
+#~ msgstr ""
+#~ "Per usare questa mappa caricala ancora una volta usando il “Media "
+#~ "Uploader” e usa “Aggiungi Mappa Personalizzata” nel menù a tendina "
+
+#~ msgid "Sorry, this map is no longer available by default.<br>"
+#~ msgstr ""
+#~ "Ci scusi per il disservizio, ma questa mappa non è più disponibile in "
+#~ "versione gratuita.<br>"
+
+#~ msgid "You can now download map here"
+#~ msgstr "Puoi scaricare la mappa qui"
+
+#~ msgid "Subdivisions Hover Status"
+#~ msgstr "Stato della Suddivisione al Passaggio del Mouse"
+
+#~ msgid "Subdivisions Selected Status"
+#~ msgstr "Stato della Suddivisione Selezionata con il Mouse"
+
+#~ msgid "General Link Settings"
+#~ msgstr "Impostazioni Generali dei Link"
+
+#~ msgid "Select..."
+#~ msgstr "Seleziona…"
+
+#~ msgid "Custom Maps"
+#~ msgstr "Mappe Personalizzate"
+
+#~ msgid "Add Custom Map &raquo;"
+#~ msgstr "Aggiungi Mappa Personalizzata  &raquo;"
+
+#~ msgid "Default Maps"
+#~ msgstr "Mappe Predefinite"
+
+#~ msgid "Selected Map"
+#~ msgstr "Mappa Selezionata"
+
+#~ msgid "Map Colours Preview"
+#~ msgstr "Anteprima Colori Mappa"
+
+#~ msgid "Help us to keep RVM free... support <strong>RVM</strong> now"
+#~ msgstr ""
+#~ "Aiutaci a mantenere RVM un plugin gratuito… supporta ora <strong>RVM</"
+#~ "strong>"
+
+#~ msgid "Map name"
+#~ msgstr "Nome Mappa"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid ""
+#~ "Do you like <strong>RVM</strong> ? Please consider making a donation now"
+#~ msgstr "Ti piace <strong>RVM</strong> ? Fai una piccola donazione ora"
+
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
+
+#~ msgid "RVM settings"
+#~ msgstr "Impostazioni RVM"
+
+#~ msgid "RVM global settings"
+#~ msgstr "Impostazioni Globali RVM"
+
+#~ msgid "Main settings"
+#~ msgstr "Impostazioni Principali"
+
+#~ msgid "Disable wp_emoji"
+#~ msgstr "Disabilita wp_emoji"
+
+#~ msgid "Install module for custom marker icon"
+#~ msgstr "Installa il modulo per l’icona personalizzata del modulo"
+
+#~ msgid "Select Marker Module"
+#~ msgstr "Seleziona il Modulo Marker"
+
+#~ msgid "Install Marker Module"
+#~ msgstr "Installa il Modulo Marker"
+
+#~ msgid "Marker Module installed"
+#~ msgstr "Modulo Marker Installato"
+
+#~ msgid "Save Changes"
+#~ msgstr "Salva le Modifiche"
+
+#~ msgid " and "
+#~ msgstr " e "
+
+#~ msgid "Oops... I messed up, I want to go back"
+#~ msgstr "Ahii… ho fatto un casino e voglio ripristinare i valori precedenti"
+
+#~ msgid "( Not visible in map preview )"
+#~ msgstr "( Non visibile in anteprima )"
+
+#~ msgid "Oops...I messed up, I want to go back"
+#~ msgstr "Ahii…ho fatto un casino e voglio ripristinare i valori precedenti"
+
+#~ msgid "Unfortunately map is no longer available"
+#~ msgstr "Purtroppo la mappa non è più disponibile"
+
+#~ msgid "Loading..."
+#~ msgstr "Caricamento…"
+
+#~ msgid "Unzip custom map"
+#~ msgstr "Decomprimi la mappa personalizzata"
+
+#~ msgid "Installing Map..."
+#~ msgstr "Installazione della Mappa…"
+
+#~ msgid "Registering..."
+#~ msgstr "Registrazione…"
+
+#~ msgid "Oops, seems someone needs to select a map first, correct?"
+#~ msgstr "Ahii, sembra che qualcuno debba selezionare una mappa prima?"
+
+#~ msgid "Installing Marker Module..."
+#~ msgstr "Installazione del Modulo Marker…"
+
+#~ msgid "Oops, seems someone needs to select a marker module first, correct?"
+#~ msgstr "Ahii, sembra che qualcuno debba selezionare un modulo marker prima?"
+
+#~ msgid "and"
+#~ msgstr "e"
+
+#~ msgid ""
+#~ "Minimum and maximum values will affect the radius dimensions of the "
+#~ "markers. Basically they are a scale within input values for marker "
+#~ "dimensions will be represented. The smallest will be equal to \"minimum "
+#~ "value\" while the biggest will be equal to \"maximum value\". Default "
+#~ "values are  RVM_MARKER_DIM_MIN_VALUE  and RVM_MARKER_DIM_MAX_VALUE"
+#~ msgstr ""
+#~ "Il valore minimo e massimo RVM_MARKER_DIM_MIN_VALUE  and "
+#~ "RVM_MARKER_DIM_MAX_VALUE"
+
+#~ msgid ""
+#~ "Minimum and maximum values will affect the radius dimensions of the "
+#~ "markers. Basically they are a scale within input values for marker "
+#~ "dimensions will be represented. The smallest will be equal to \"minimum "
+#~ "value\" while the biggest will be equal to \"maximum value\". Default "
+#~ "values are "
+#~ msgstr ""
+#~ "I valori Minimo e Massimo hanno un effetto diretto sul raggio dell’icona "
+#~ "circolare segnaposto dei markers. In pratica sono una scala entro cui le "
+#~ "dimensioni dei singoli markers verranno rappresentati. Il valore minimo "
+#~ "sarà uguale al “Valore Minimo” selezionato mentre il più grande sarà "
+#~ "uguale al “Valore Massimo”. I valore predefiniti sono :"
+
+#~ msgid "Subdivisions selected status"
+#~ msgstr "Stato della Suddivisione Selezionata"
+
+#~ msgid "You can now download &nbsp;<span>"
+#~ msgstr "Puoi comunque scaricarla ora &nbsp;<span>"
+
+#~ msgid "Choose a valid region from the drop down menu"
+#~ msgstr "Scegli una regiona"
